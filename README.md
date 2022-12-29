@@ -22,3 +22,8 @@ To Kill (Use PID)
 taskkill /PID <PIDHERE> /F
 ```
 <hr>
+
+### Linux (Ubuntu) - Check Current Version
+```
+lsb_release -a
+```
